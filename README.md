@@ -28,3 +28,28 @@
  ![code4](https://github.com/kannahs/Lab1Web/blob/master/image/code4.PNG?raw=true)
 - seperti ini tampilan nya
  ![tampilan4](https://github.com/kannahs/Lab1Web/blob/master/image/tampilan4.PNG?raw=true)
+
+3. Memformat teks
+- Ada beberapa tag yang dapat digunakan untuk memformat teks pada paragraf. Diantaranya adalah : 'b','strong','i','em','mark','small','del','ins','sub','sup'.
+- di sini saya hanya menggunakan beberapa tag yaitu 'b','i','mark',dan 'del'.
+ ![code5](https://github.com/kannahs/Lab1Web/blob/master/image/code5.PNG?raw=true)
+-berikut tampilannya :
+ ![tampilan5](https://github.com/kannahs/Lab1Web/blob/master/image/tampilan5.PNG?raw=true)
+
+4. Menambahkan gambar
+- Di sini saya akan menambhkan sebuah gambar
+ ![code6](https://github.com/kannahs/Lab1Web/blob/master/image/code6.PNG?raw=true)
+- seperti ini tampilan nya
+ ![tampilan6](https://github.com/kannahs/Lab1Web/blob/master/image/tampilan6.PNG?raw=true)
+
+5. Menambahkan Hyperlink
+- Bagian terakhir dari praktikum ini adalah menambahkan hyperlink
+ ![code7](https://github.com/kannahs/Lab1Web/blob/master/image/code7.PNG?raw=true)
+- Tampilannya akan seperti ini,akan terdapat sebuah link di atas
+ ![tampilan7](https://github.com/kannahs/Lab1Web/blob/master/image/tampilan7.PNG?raw=true)
+- Dan ini merupakan isi dari link tersebut
+ ![tampilan7.1](https://github.com/kannahs/Lab1Web/blob/master/image/tampilan7.1.PNG?raw=true)
+
+SEKIAN DARI SAYA,TERIMA KASIH
+
+Bagus Pratama/TI.19.A.1/311910613
