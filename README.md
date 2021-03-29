@@ -12,3 +12,7 @@
 4. Di isi semua,agar gambar lebih proporsional
 5. _blank (untuk membuka di tab baru), _self (untuk membuka link di frame link itu berada. ini merupakan setelan dasar link jika pada elemen link tidak diberi atribut target), _top (ntuk membuka link di frame paling atas (paling luar)), _parent (untuk membuka link di frame yang satu tingkat di atas frame link tersebut berada)
 
+## PRAKTIKUM
+1. Membuat paragraf
+- Di sini saya membuat dua buah paragraf sederhana
+- ![code1](https://github.com/kannahs/Lab1Web/blob/master/image/code1.PNG?raw=true)
