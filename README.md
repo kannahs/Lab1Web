@@ -15,4 +15,16 @@
 ## PRAKTIKUM
 1. Membuat paragraf
 - Di sini saya membuat dua buah paragraf sederhana
-- ![code1](https://github.com/kannahs/Lab1Web/blob/master/image/code1.PNG?raw=true)
+ ![code2](https://github.com/kannahs/Lab1Web/blob/master/image/code2.PNG?raw=true)
+- berikut tampilannya :
+ ![tampilan2](https://github.com/kannahs/Lab1Web/blob/master/image/tampilan2.PNG?raw=true)
+- menambah atribut seperti align = justify, left, right, dan center.Di sini saya menggunakan Right & Center.
+ ![code3](https://github.com/kannahs/Lab1Web/blob/master/image/code3.PNG?raw=true)
+- seperti ini tampilan nya :
+ ![tampilan3](https://github.com/kannahs/Lab1Web/blob/master/image/tampilan3.PNG?raw=true)
+
+2. Menambahkan judul
+- Tag judul memiliki 6 tingkatan yakni dari h1 yang terbesar hingga h6 yang paling kecil,saya mencoba untuk memberi judul pada paragraf 1 dan 2
+ ![code4](https://github.com/kannahs/Lab1Web/blob/master/image/code4.PNG?raw=true)
+- seperti ini tampilan nya
+ ![tampilan4](https://github.com/kannahs/Lab1Web/blob/master/image/tampilan4.PNG?raw=true)
